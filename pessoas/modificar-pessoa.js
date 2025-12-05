@@ -1,4 +1,4 @@
-import pessoa from './ex_1.js';
+import pessoa from './pessoas.js';
 
 pessoa.idade = 22;
 pessoa.cidade = "São Paulo";

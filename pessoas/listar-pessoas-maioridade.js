@@ -1,4 +1,4 @@
-import {pessoas} from './ex_1.js';
+import {pessoas} from './pessoas.js';
 
 pessoas.forEach((pessoa) => {
     if (pessoa.idade >= 18) {
