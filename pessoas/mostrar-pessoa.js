@@ -1,4 +1,4 @@
-import pessoa from './ex_1.js';
+import pessoa from './dados-pessoas.js';
 
 console.log(`Nome: ${pessoa.nome}`);
 console.log(`Idade: ${pessoa.idade}`);
